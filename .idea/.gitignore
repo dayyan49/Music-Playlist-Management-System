@@ -9,3 +9,6 @@
 # Compiled output
 out/
 *.class
+
+# OS
+.DS_Store
